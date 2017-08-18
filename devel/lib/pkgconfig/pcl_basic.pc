@@ -1,0 +1,8 @@
+prefix=/home/kevinsun/Projects/PCL_Research/devel
+
+Name: pcl_basic
+Description: Description of pcl_basic
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kevinsun/Projects/PCL_Research/devel/lib 
+Requires: pcl_conversions pcl_msgs pcl_ros pointcloud_to_laserscan roscpp rospy std_msgs
